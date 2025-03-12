@@ -264,7 +264,7 @@ footer nav ul li a:hover {
   }
 
   #hero {
-    margin-top: 70px;
+    margin-top: 280px; /* Aumentamos el margen superior para que la imagen no quede tapada */
     height: 300px;
   }
 
